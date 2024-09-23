@@ -1,4 +1,4 @@
-
+"""
 This file contains the code logic and the DUT class
 """
 class DUT:
