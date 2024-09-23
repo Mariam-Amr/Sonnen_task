@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project implements a function to determine the appropriate action based on photovoltaic (PV) production and household consumption. The function evaluates different scenarios to decide whether to charge with surplus energy, discharge, or take no action.
+This project implements a function to determine the appropriate action based on photovoltaic (PV) production and household consumption. The function evaluates different scenarios to decide whether to charge with surplus energy, Storge will supply house with power, or Nothing.
 
 ## Functionality
 
