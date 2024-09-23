@@ -25,3 +25,19 @@ from Sonnen_task.src.Dut import choose_action
 
 result = choose_action(10, 5)
 print(result)  # Output: Charge with Surplus
+
+###Installation
+- To run the code, ensure you have Python installed on your machine.
+
+### Testing
+
+- You can run tests using `pytest`. Make sure to have `pytest` installed:
+
+```bash
+pip install pytest
+
+
+
+
+
+
