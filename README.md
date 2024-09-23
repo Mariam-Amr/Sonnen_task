@@ -1,4 +1,4 @@
-# Sonnen-s-Task
+# Sonnen-Task
 # Energy Management Task
 
 ## Overview
