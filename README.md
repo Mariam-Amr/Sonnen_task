@@ -27,7 +27,7 @@ result = choose_action(10, 5)
 print(result)  # Output: Charge with Surplus
  ```
 
-###Installation
+### Installation
 - To run the code, ensure you have Python installed on your machine.
 
 ### Testing
