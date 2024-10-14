@@ -2,7 +2,7 @@
 This file contains the test cases for Dut.py file
 """
 import pytest
-from Sonnen_task.src.Dut import DUT ,choose_action
+from Sonnen_task.scr.Dut import DUT ,choose_action
 
 
 class TestEnergyManagement:
